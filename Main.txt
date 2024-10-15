@@ -1,0 +1,17 @@
+							Protocol Analyzer
+
+
+
+********************************************************************************************************************************
+							Instructables Sources
+********************************************************************************************************************************
+
+
+
+https://www.instructables.com/How-to-Use-the-Protocol-Analyzer-on-the-Discovery-/
+https://www.instructables.com/Using-the-Logic-Analyzer-With-the-Analog-Discovery/
+https://www.instructables.com/Open-Your-Eyes-Logical-Analyzer/
+https://www.instructables.com/HackerBoxes-0012-Digital-Logic/
+
+
+https://www.instructables.com/The-80211-Ninja-Portable-80211-Hacking-Device/
