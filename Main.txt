@@ -15,3 +15,11 @@ https://www.instructables.com/HackerBoxes-0012-Digital-Logic/
 
 
 https://www.instructables.com/The-80211-Ninja-Portable-80211-Hacking-Device/
+
+
+
+
+
+Dev_Board
+
+clk: 32MHz
